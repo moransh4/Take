@@ -7411,4 +7411,8 @@ body footer .form-group p {
   body .box-section .box a {
     left: 30px;
   }
+  body .reasons-section h3 {
+    font-size: 29px;
+    line-height: 29px;
+  }
 }
